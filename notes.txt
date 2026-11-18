@@ -1,0 +1,5 @@
+
+MCP Learning Notes
+I have created my first MCP server.
+My server supports calculator tools.
+Next, I am learning file reading.
